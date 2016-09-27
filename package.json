@@ -1,0 +1,15 @@
+{
+    "name": "SphinxDev.materialDark-Sphinx",
+    "title": "materialDark-Sphinx",
+    "description": "",
+    "homepage": "https://github.com/TAlexBlueHat/materialDark-Sphinx",
+    "version": "1.0.0",
+    "author": "Alex TONDOH <alextondoh@gmail.com> (https://github.com/TAlexBlueHat) ",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "Sphinx", "material"]
+}
